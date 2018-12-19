@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PPM calculator</string>
+    <string name="plec_txt">wybierz plec:</string>
+    <string name="wskazowka_wzrost">podaj wzrost w cm</string>
+    <string name="wzrost_txt">Podaj wzrost:</string>
+    <string name="masa_txt">Masa:</string>
+    <string name="wskazowka_masa">podaj mase w kg</string>
+    <string name="wiek_txt">Wiek:</string>
+    <string name="wskazowka_wiek">podaj wiek</string>
+    <string name="sposob_txt">wybierz sposob obliczen:</string>
+    <string name="start_txt">OBLICZ</string>
+    <string-array name="plec_opcje">
+        <item>M</item>
+        <item>K</item>
+    </string-array>
+    <string-array name="sposob_opcje">
+        <item>Benedicta-Harrisa</item>
+        <item>Mifflina</item>
+    </string-array>
+
+</resources>
